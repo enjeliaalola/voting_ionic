@@ -1,0 +1,21 @@
+.modal-sheet {
+  --height: 75vh; /* Mengatur tinggi modal menjadi 100% dari tinggi viewport */
+}
+
+.modal-sheet .modal-wrapper {
+  height: var(--height) !important; /* Mengatur tinggi wrapper modal */
+}
+
+.modal-sheet .modal-wrapper .modal-wrapper-inner {
+  height: var(--height) !important; /* Mengatur tinggi konten modal */
+}
+.judul{
+	font-size:14px;
+	font-weight:700;
+}
+.formaddubah{
+	padding:10px;
+}
+.formaddubah input{
+	height:40px;
+}

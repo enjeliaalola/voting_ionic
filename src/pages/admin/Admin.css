@@ -1,0 +1,71 @@
+.aksipemilih button{
+	width:50%;
+}
+.aksicalon button{
+	width:50%;
+	border-radius:0px;
+}
+.headerpage{
+  font-size: 18px;
+  padding: 0px 10px;
+}
+.keluar{
+	width:20px;
+	text-align:right;
+	font-size: 18px;
+}
+.hasil button{
+	width:100%;
+	border-radius:0px;
+	padding: 12px 0px;
+}
+.bottommenu button{
+	width:25%;
+	border-radius:0px;
+	font-size: 13px;
+    border-right: 1px solid #fff;
+	padding: 12px 0px;
+}
+.bottommenu button:last-child{
+    border-right: 0px solid #fff;
+}
+.bottommenu button:first-child{
+    border-left: 0px solid #fff;
+}
+.judulteks{
+	font-size: 14px;
+	margin: 0px;
+	padding: 0px;
+	margin-left: 10px;
+	font-weight: 500;
+}
+.ringkasan{
+	margin: 0px 10px;
+}
+.ringkasan h3,.ringkasan h5{
+	margin: 0px;
+	padding: 0px;
+	font-size: 14px;
+}
+.ringkasan h3{
+	font-size: 20px;
+}
+.ringkasan div{
+	width:calc(50% - 5px);
+	text-align: center;
+}
+.aksihasil button{
+	width:100%;
+	border-radius:0px;
+}
+.judulhasil{
+	width:100%;
+	font-size: 14px;
+	font-weight:600;
+}
+.h2{
+	font-size: 14px;
+	font-weight:600;
+	margin:0px;
+	padding:10px 5px;
+}
